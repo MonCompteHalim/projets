@@ -41,6 +41,8 @@ public class PyramidTest {
         assertEquals(" VVV \n"
                    + "_XXX_\n"
                    + "XXXXX", pyramid.print());
+        
+        //j'ai ajouté ce cpù ^pir tester git
     }
 
 }
